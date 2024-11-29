@@ -1,3 +1,4 @@
+- 👋 Hi, I’m @makingik
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C++ and C#
 - 💞️ I’m looking to collaborate on new/open projects
